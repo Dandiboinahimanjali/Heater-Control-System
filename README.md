@@ -1,4 +1,5 @@
-# Heater-Control-System
+# Timer-Based Heater Control System Using Arduino UNO and DS18B20
+
 This  Project implements a basic heater control system using an Arduino UNO, a DS18B20 temperature Sensor, and buzzer.The system periodically read the temperature and controls a heater to maintain a target temperature ,giving feedback using a buzzer .It uses  at  Timer interrupt to ensure periodic execution erery 1 second.
 # Project About
 Continously monitors temperature using a DS18B20 temperature Sensor
